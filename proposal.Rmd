@@ -32,14 +32,26 @@ library(devtools)
 ##Literature Foundation
 &nbsp;&nbsp;&nbsp; In 2018, 91 percent of House of Representative incumbents were reelected. Even when factoring in retirements or Members choosing not to seek reelection, the rate is roughly 78 percent (Skelley 2018). Interestingly, the House had an approval rating of 20 percent four days before the election 2018 (Gallup 2019). This conundrum spawned frequent research in an effort to answer the question: Why do House of Representative Members (MCs henceforth) get reelected when the approval rating of the House of Representatives is so low? 
 
-This paper proposes a new theory in "uncertainty advantage" that provides incumbents with an anxiety-induced advantage over a challenger during Presidential election years. Drawing on Psychology and Political Science research, I will attempt to answer the long-debated question as well as bridge the gap between the behaviors MCs do to get reelected, and the electorate actually voting for them in the election. A few assumptions are necessary to specify before further explanation of the new theory.
+This paper proposes a new theory in "uncertainty advantage" that provides incumbents with an anxiety-induced advantage over a challenger during Presidential election years. Drawing on Psychology and Political Science research, I will attempt to answer the long-debated question as well as bridge the gap between the behaviors MCs do to get reelected, and the electorate actually voting for them in the election. 
 
-The first assumption is that MCs want to be reelected and do specific behaviors that are hypothesized in *The Electoral Connection* (Mayhew 1972). These behaviors are done in a purposeful effort on behalf of MCs in the pursuit of reelection.
+A few assumptions are necessary to specify before further explanation of the new theory.
 
-Second, voters must care about the outcome of the election. The premise of this piece relies on the notion that politics and outcomes of elections have an effect on voters, and that they believe that the election is meaningful. 
+>The first assumption: MCs want to be reelected and do specific behaviors that are hypothesized in *The Electoral Connection* (Mayhew 1972). These behaviors are done in a purposeful effort on behalf of MCs in the pursuit of reelection.
+
+>Second, voters must care about the outcome of the election. The premise of this piece relies on the notion that politics and outcomes of elections have an effect on voters, and that they believe that the election is meaningful. 
+
+>Finally, a third assumption must be that emotions are included in the voting calculus of voters when they enter the ballot box.
+
+##Theory
+
+&nbsp;&nbsp;&nbsp; Humans are preconditioned to prefer situations that leave them feeling certain about potential outcomes. As such, humans will make changes to belief structures in an effort to perform "uncertainty management" (Hirsh et al 2012). When presented with great uncertainty, humans will perform behaviors that minimize other pieces of uncertainty in their life. 
+
+In Presidential elections, there is often great uncertainty that surrounds the potential outcomes. In years when the election is composed of two non-incumbents, the uncertainty is increased more so over years when an incumbent is facing a challenger for the Presidency. In an effort to minimize uncertainty elsewhere in their political lives, voters will support incumbents of more-direct representation in the House of Representatives. In pursuit of minimizing their uncertainty, voters can ignore partisan heuristics, and support their MCs even when they do not align politically with their belief structures--thus changing their belief structure to fit their effort of minimization of uncertainty.
+
+Voters perform their "uncertainty management" functionally, by supporting their MC incumbent over challengers. They choose what they know over what they do not know, and in doing so minimize their uncertainty in a highly uncertain political environment.
+
+Based on the theory where voters, in Presidential election years, are uncertain (or anxious) they will have higher levels of support for their House incumbent as a function of managing uncertainty and limiting their anxiety. The expectation is that those who have higher levels of anxiety for either one of the candidates would likely approve of their MC incumbent (regardless of party identification of the individual or their MC). 
 
 
-
-
-
+EXAMPLE: Governorship switches parties from Republican to Democrat. Democrat wins by 120,000 votes. Republican governor candidate was the incumbent for the office, but lost to the challenger. Meanwhile, the state house and the state senate remain greatly in Republican control, and cross-party voting occured, where a voter chose a Democrat for governor, but then down-ballot chose the incumbent Republican over the challenger Democrat, because their uncertainty was less with what they knew, and they had already gambled on the top of the ballot.
 (Auter 2016)
