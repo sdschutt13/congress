@@ -1,0 +1,16 @@
+---
+title: "Electorate Anxiety and Congressional Approval"
+author: "Sam Schutt"
+date: "February 2019"
+output: pdf_document
+header-includes:
+    - \usepackage{setspace}
+    - \usepackage{booktabs}
+abstract: "This is my abstract"
+---
+```{r setup, include=FALSE}
+library(haven); library(tidyverse); library(ggplot2); library(Rmisc); library(plyr); library(dplyr); library(plotrix); library(directlabels); library(cowplot); library(grid); library(RColorBrewer); library(pander); library(lsr); library(DescTools); library(scales); library(devtools);
+```
+
+
+TEST
