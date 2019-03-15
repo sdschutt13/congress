@@ -2,11 +2,13 @@
 title: "Uncertainty Advantage in House Reelections"
 author: "Sam Schutt"
 date: "February 2019"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 header-includes:
-    - \usepackage{setspace}
-    - \usepackage{booktabs}
-abstract: "This is my abstract"
+- \usepackage{setspace}
+- \usepackage{booktabs}
+abstract: This is my abstract
 ---
 ```{r setup, include=FALSE}
 
